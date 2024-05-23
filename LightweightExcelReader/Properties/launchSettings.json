@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LightweightExcelReader": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
